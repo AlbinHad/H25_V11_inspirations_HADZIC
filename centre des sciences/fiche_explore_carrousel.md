@@ -1,1 +1,1 @@
-
+un dispositif de multimedia interactif qui selon les choix effectuer sur l'ecran permet de activer une carousel et dependasnt de choix le mouvement du carousel et les eclairage vont changer afin de creer une petite piece de théatre unique et PERSONALISÉ
