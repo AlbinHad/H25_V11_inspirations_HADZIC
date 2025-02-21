@@ -4,8 +4,10 @@ ce dispositif fonctionne selon les choix qu'on va effectuer sur un ecran tactile
 
 Lieu:centre des science 
 
-date:30 janvier 2025
+Section: EXPLORE
 
 dispositif:carrousel
+
+date:30 janvier 2025
 
 Albin Hadzic
