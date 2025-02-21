@@ -1,1 +1,1 @@
-
+J'ai vraiment apprécié ma visite au Centre des sciences du Vieux-Port de Montréal, notamment dans la section EXPLORE. Cet espace interactif m'a permis de plonger dans un univers fascinant de découvertes. Les expositions étaient à la fois éducatives et ludiques et j'ai adoré pouvoir toucher, manipuler et expérimenter différentes installations. Que ce soit pour comprendre des phénomènes scientifiques ou explorer des concepts d'une manière visuellement captivante,chaque coin de cette section m'a offert une expérience immersive.Cetait un mélange de plaisir et d'apprentissage.
