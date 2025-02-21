@@ -1,1 +1,1 @@
-ce dossier va contenir la documentation du musee des sciences
+ce dossier va contenir la documentation du musée des sciences
