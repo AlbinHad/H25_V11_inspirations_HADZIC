@@ -8,7 +8,7 @@ Section: EXPLORE
 
 dispositif:carrousel
 
-![photo](medias/carhousel.jpg)
+![photo](medias/carhrousel.jpg)
   
 date:30 janvier 2025
 
