@@ -8,6 +8,8 @@ Section: EXPLORE
 
 dispositif:carrousel
 
+![photo](medias/carhousel.jpg)
+  
 date:30 janvier 2025
 
 Albin Hadzic
