@@ -12,11 +12,11 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
 
 ## Etheria
 **Titre** : Etheria  
-**Créateurs/Créatrices** :Joshua Gonzalez-Barrera
-Maik Hamel
-Michael Un Dupré
-Pierre-Luc Proulx
-Victor Gileau
+**Créateurs/Créatrices** :Joshua Gonzalez-Barrera,
+Maik Hamel,
+Michael Un Dupré,
+Pierre-Luc Proulx,
+Victor Gileau,
 **Installation** :  
 - **Statut** : Installation finale dans les studios  
 - **Photo de l'installation** :  
