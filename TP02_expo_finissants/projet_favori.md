@@ -16,43 +16,22 @@ L'installation propose une narration digitale surprenante qui incite chaque spec
 
 ---
 
-## Galerie d'images
-
-### 1. Diffusion complète de l’expérience
-![Diffusion complète](photos_expo_finissants/diffusion_complet.webp)
-
-### 2. Vue d’ensemble de l’installation
-![Vue d’ensemble](photos_expo_finissants/vue_ensemble.jpeg)
-
-### 3. Plan du jeu et du vélo
-![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)
-
-### 4. Plan de l’écran
-![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)
-
-### 5. Schéma filaire
-![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)
-
----
-
 ## Ce qui me plaît dans l'expérience interactive de Web-C0N-DU8
 Ce qui m'émerveille dans cette exposition, c'est la fusion entre le multimédia et l'activité physique.  
 J'apprécie particulièrement que Web-C0N-DU8 combine le sport et l'interaction digitale.  
-Le jeu intègre des courses et des scores à battre, ce qui encourage à se dépasser, tout en offrant une immersion numérique captivante.  
+Le jeu intègre des courses et des scores à battre qui encouragent à se dépasser, tout en offrant une immersion numérique captivante.  
 Chaque interaction révèle des aspects surprenants, alliant défi physique et expérience interactive stimulante.
 
-> 💡 **Astuce** : Prenez le temps d'explorer chaque élément interactif – chaque clic et chaque mouvement enrichissent l'expérience et révèlent de nouvelles facettes de l'installation.
-
----
+> 
 
 ## Ressenti
 J'ai trouvé l'expérience à la fois motivante et accessible.  
-L'association de l'activité physique et du numérique transforme le pédalage en un jeu stimulant qui m'encourage à me dépasser tout en profitant d'une expérience interactive bien conçue et réfléchie.
+L'association de l'activité physique et du numérique transforme le pédalage en un jeu stimulant qui m'encourage à me dépasser tout en profitant d'une expérience interactive bien conçue.
 
 ---
 
 ## Liste des composantes de l'installation
-*(Chaque composante est clairement identifiée et intégrée avec des images lorsque cela est pertinent, conformément aux critères de la grille d’évaluation.)*
+*(Chaque composante est clairement identifiée et intégrée avec des images pertinentes, conformément aux critères de la grille d’évaluation.)*
 
 - **Vélo Stationnaire**  
   *Interface principale* :  
@@ -79,7 +58,7 @@ L'association de l'activité physique et du numérique transforme le pédalage e
 
 - **LED et Signaux Lumineux**  
   *Feedback visuel* :  
-  Fournissent une rétroaction immédiate à l'utilisateur, indiquant l'état des interactions et ajoutant une dimension esthétique.
+  Fournissent une rétroaction immédiate, indiquant l'état des interactions et ajoutant une dimension esthétique.
 
 - **Carte de Prototypage (Arduino ou autre microcontrôleur)**  
   *Cerveau technique* :  
@@ -92,7 +71,3 @@ L'association de l'activité physique et du numérique transforme le pédalage e
 ---
 
 *Cette présentation a été conçue en respectant les consignes d'une organisation rigoureuse, un nommage clair et une intégration soignée des images, conformément à la grille d’évaluation. Elle reflète mes idées et mon ressenti sur la fusion innovante entre le sport et le multimédia dans cette installation interactive.*
-
-
-
-
