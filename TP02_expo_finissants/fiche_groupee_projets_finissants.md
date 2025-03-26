@@ -38,8 +38,7 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
 
 *Ressenti et Justification* :  
 - Avant l'expérimentation : J'attendais une immersion visuelle marquante et innovante.  
-- Après l'expérimentation : L'installation offre une expérience immersive subtile et engageante, avec une scénographie soignée qui joue avec les transitions de couleurs et crée une ambiance lumineuse stimulante.
-
+- Après l'expérimentation :  Luminatura s'est révélée être une expérience visuellement très belle et apaisante, grâce à ses transitions de couleurs harmonieuses et son ambiance lumineuse qui crée une atmosphère sereine.
 ---
 
 ## Internature
@@ -53,9 +52,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Internature GitHub (https://tprangers.github.io/internature/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais curieux(se) de découvrir comment des éléments naturels pouvaient être intégrés à une installation interactive.  
-- Après l'expérimentation : L'installation crée un équilibre harmonieux entre nature et technologie, et les bruits authentiques de la nature nous mettaient vraiment dans l'ambiance, renforçant l'expérience immersive.
-
+- Avant l'expérimentation : J'étais curieux de découvrir à quoi le ballon allait servir et comment il pouvait être intégré à une installation interactive. 
+- Après l'expérimentation : Le ressenti dans Internature s'est avéré très unique et très accueillant ; le fait que nous étions dans un mini tunnel a rendu l'expérience encore plus immersive et captivante.
 ---
 
 ## Prismatica
@@ -69,9 +67,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Prismatica GitHub (https://pootpookies.github.io/Prismatica/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'espérais une approche visuelle audacieuse et interactive.  
-- Après l'expérimentation : L'interactivité et l'esthétique se démarquent, bien que l'intégration globale semble moins aboutie comparativement aux autres projets.
-
+- Avant l'expérimentation :  Je pensais que Prismatica serait un projet où l'on dessinerait avec la lumière, créant des œuvres interactives. 
+- Après l'expérimentation : J'ai apprécié le projet car les couleurs étaient vives et l'originalité du concept m'a particulièrement marqué, surtout que j'aime beaucoup dessiner.
 ---
 
 ## Fuga
@@ -85,8 +82,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Fuga GitHub (https://escapism-fuga.github.io/Fuga/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais intéressé(e) par la manière dont l'interactivité pouvait transformer l'expérience sensorielle dans un contexte de nature.
-- Après l'expérimentation : Les sons authentiques de la nature diffusés dans l'installation nous plongeaient vraiment dans l'ambiance, créant un équilibre harmonieux entre nature et technologie, et renforçant l'expérience immersive.
+- Avant l'expérimentation : J'étais intéressé(e) par la manière dont l'interactivité pouvait transformer l'expérience sensorielle et audititf dans un contexte de nature.
+- Après l'expérimentation : Les sons authentiques de la nature diffusés dans l'installation nous plongeaient vraiment dans l'ambiance, créant un équilibre harmonieux et renforçant l'expérience immersive.
 
 ## Arcadia
 [Arcadia GitHub](https://cousi-cousa.github.io/Arcadia/#/)
@@ -99,9 +96,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Arcadia GitHub (https://cousi-cousa.github.io/Arcadia/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais curieux(se) de voir comment l'esthétique et la technologie se fusionneraient.  
-- Après l'expérimentation : L'installation se distingue par sa scénographie soignée et une atmosphère singulière, bien que l'interactivité y soit moins prononcée.
-
+- Avant l'expérimentation :  Je m'attendais à une installation avec une sorte de géante manette interactive, nécessitant l'utilisation de plusieurs membres du corps pour contrôler l'expérience.   
+- Après l'expérimentation : Le jeu vidéo réalisé s'est avéré complet et esthétiquement réussi, offrant une interface de jeu bien conçue, Bien que l'interactivité stimulante soit moins présent.
 ---
 
 ## Cours Incontournables pour la Réalisation de Projets Multimédia Interactifs
@@ -111,8 +107,7 @@ Pour développer les compétences nécessaires, je recommande les cours suivants
 2. **H582412 MO Traitement audiovisuel**  
    *Essentiel pour intégrer efficacement les aspects visuels et sonores des installations.*
 3. **A 582501 MO Conception d'une expérience multimédia**  
-   *Crucial pour concevoir et gérer globalement un projet interactif.*
+   *essentiel pour concevoir et gérer globalement un projet interactif.*
 
 ---
 
-*Cette fiche a été réalisée en respectant les consignes et*
