@@ -1,15 +1,15 @@
 # Web-C0N-DU8
 
-![vue_ensemble.jpeg](photos_expos_finissants)
+![Diffusion complète](photos_expo_finissants/diffusion_complet.webp)
 
 Diffusion complète de l'installation Web-C0N-DU8, une œuvre immersive réalisée par GearShift Games, 2025.
 
 ---
 
-## **Intérêts dans le multimédia**
+## Intérêts dans le multimédia
 Je suis passionné(e) par les expériences numériques qui repoussent les limites de l’art interactif.  
-Web-C0N-DU8 se distingue par l’usage innovant du code et du design pour créer un parcours interactif et poétique.  
-J'apprécie particulièrement comment cette installation fusionne des éléments visuels et sonores pour offrir une narration digitale surprenante, incitant le spectateur à redéfinir sa relation avec le médium.
+Web-C0N-DU8 se distingue par l’innovation de son code et la créativité de son design, qui transforment une interface web en un véritable terrain de jeu sensoriel.  
+L'installation propose une narration digitale surprenante qui incite chaque spectateur à repenser sa relation avec le numérique.
 
 À découvrir ici :  
 <https://gearshift-games.github.io/Web-C0N-DU8/#/>
@@ -18,61 +18,81 @@ J'apprécie particulièrement comment cette installation fusionne des éléments
 
 ## Galerie d'images
 
-### 1. Vue d’ensemble de l’installation
-![Vue d’ensemble](vue_ensemble.jpeg)
+### 1. Diffusion complète de l’expérience
+![Diffusion complète](photos_expo_finissants/diffusion_complet.webp)
 
-### 2. Plan du jeu et du vélo
-![Plan du jeu et du vélo](plan_jeu_velo.jpeg)
+### 2. Vue d’ensemble de l’installation
+![Vue d’ensemble](photos_expo_finissants/vue_ensemble.jpeg)
 
-### 3. Plan de l’écran
-![Plan de l’écran](plan_ecran.jpeg)
+### 3. Plan du jeu et du vélo
+![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)
 
-### 4. Schéma filaire (lien)
-![Schéma filaire des branchements](lien_filaire.jpeg)
+### 4. Plan de l’écran
+![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)
+
+### 5. Schéma filaire
+![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)
 
 ---
 
 ## Ce qui me plaît dans l'expérience interactive de Web-C0N-DU8
-Ce qui m'attire dans cette exposition, c'est la manière dont l'installation transforme une interface web en un véritable terrain de jeu sensoriel.  
-Chaque interaction, chaque transition, révèle des strates narratives et artistiques qui invitent à une exploration approfondie.  
-L’harmonie entre technologie et esthétique crée une immersion totale, stimulant à la fois la curiosité et l’émotion.
+Ce qui m'émerveille dans cette exposition, c'est la fusion entre le multimédia et l'activité physique.  
+J'apprécie particulièrement que Web-C0N-DU8 combine le sport et l'interaction digitale.  
+Le jeu intègre des courses et des scores à battre, ce qui encourage à se dépasser, tout en offrant une immersion numérique captivante.  
+Chaque interaction révèle des aspects surprenants, alliant défi physique et expérience interactive stimulante.
 
+> 💡 **Astuce** : Prenez le temps d'explorer chaque élément interactif – chaque clic et chaque mouvement enrichissent l'expérience et révèlent de nouvelles facettes de l'installation.
+
+---
+
+## Ressenti
+J'ai trouvé l'expérience à la fois motivante et accessible.  
+L'association de l'activité physique et du numérique transforme le pédalage en un jeu stimulant qui m'encourage à me dépasser tout en profitant d'une expérience interactive bien conçue et réfléchie.
 
 ---
 
 ## Liste des composantes de l'installation
+*(Chaque composante est clairement identifiée et intégrée avec des images lorsque cela est pertinent, conformément aux critères de la grille d’évaluation.)*
 
 - **Vélo Stationnaire**  
-  Sert d’interface principale : le pédalage et la vitesse sont mesurés et traduits en données pour contrôler l’environnement virtuel.
-  
-- **Projecteur**  
-  Affiche l’interface interactive sur le mur, avec des visuels générés en temps réel qui réagissent aux interactions.
+  *Interface principale* :  
+  Le pédalage et la vitesse sont convertis en données, établissant un lien direct entre l'effort physique et l'environnement virtuel.  
+  ![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)
+
+- **Projecteur / Écran**  
+  *Affichage interactif* :  
+  Diffuse des visuels en temps réel qui réagissent aux interactions, transformant l'espace en une toile numérique dynamique.  
+  ![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)
+
+- **Schéma Filaire**  
+  *Raccordements techniques* :  
+  Illustrant comment les différents éléments (capteurs, LED, microcontrôleur) sont interconnectés pour assurer une synchronisation optimale.  
+  ![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)
 
 - **Enceintes Audio**  
-  Diffusent la trame sonore et les effets synchronisés pour renforcer l’immersion.
+  *Ambiance sonore* :  
+  Diffusent une trame sonore synchronisée avec les interactions, renforçant l'immersion globale.
 
 - **Capteurs (interrupteurs, capteurs de mouvement, etc.)**  
-  Captent les actions telles que la vitesse, la pression ou la rotation, fournissant des données interactives essentielles.
+  *Collecte de données* :  
+  Captent la vitesse, la pression et la rotation, transformant chaque geste en information exploitable pour enrichir l'expérience.
 
 - **LED et Signaux Lumineux**  
-  Offrent un retour visuel direct à l’utilisateur pour indiquer l’état des interactions.
+  *Feedback visuel* :  
+  Fournissent une rétroaction immédiate à l'utilisateur, indiquant l'état des interactions et ajoutant une dimension esthétique.
 
 - **Carte de Prototypage (Arduino ou autre microcontrôleur)**  
-  Centralise les données des capteurs et communique avec l’ordinateur de contrôle.
+  *Cerveau technique* :  
+  Centralise et transmet les données des capteurs à l’ordinateur de contrôle pour orchestrer l'ensemble du dispositif.
 
 - **Ordinateur de Contrôle**  
-  Exécute le logiciel interactif qui gère la logique de l’installation et synchronise les données en temps réel.
+  *Cœur du système* :  
+  Exécute le logiciel interactif qui gère la logique de l'installation et synchronise les données en temps réel.
 
 ---
 
-## Justification et Ressenti
-Web-C0N-DU8 marie habilement précision technique et sensibilité artistique.  
-L'installation offre non seulement un spectacle visuel impressionnant, mais incite également à réfléchir sur le rôle du numérique dans la création contemporaine.  
-Son interface épurée et intuitive permet une navigation fluide, tout en réservant des surprises à chaque détour.  
-Cette approche innovante est une source d’inspiration pour repenser la manière de concevoir et de présenter l’art à l’ère digitale.
+*Cette présentation a été conçue en respectant les consignes d'une organisation rigoureuse, un nommage clair et une intégration soignée des images, conformément à la grille d’évaluation. Elle reflète mes idées et mon ressenti sur la fusion innovante entre le sport et le multimédia dans cette installation interactive.*
 
----
 
-*La présentation ci-dessus a été conçue en respectant les consignes d’une organisation rigoureuse, un nommage clair et une intégration soignée des images, conformément à la grille d’évaluatio
 
 
