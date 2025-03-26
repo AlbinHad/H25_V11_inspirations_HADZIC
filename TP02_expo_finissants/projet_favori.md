@@ -17,57 +17,63 @@ L'installation propose une narration digitale surprenante qui incite chaque spec
 ---
 
 ## Ce qui me plaît dans l'expérience interactive de Web-C0N-DU8
-Ce qui m'émerveille dans cette exposition, c'est la fusion entre le multimédia et l'activité physique.  
+Ce qui m'émerveille dans cette exposition, c'est la fusion entre multimédia et activité physique.  
 J'apprécie particulièrement que Web-C0N-DU8 combine le sport et l'interaction digitale.  
-Le jeu intègre des courses et des scores à battre qui encouragent à se dépasser, tout en offrant une immersion numérique captivante.  
-Chaque interaction révèle des aspects surprenants, alliant défi physique et expérience interactive stimulante.
+Le jeu, directement lié à la performance sur le vélo stationnaire, prend en compte la force appliquée, le nombre de tours effectués et la vitesse de pédalage, transformant ainsi l'effort en un défi ludique et motivant.  
+Chaque interaction révèle une nouvelle dimension, alliant défi physique et plaisir interactif.
 
-> 
+> 💡 **Astuce** : Prenez le temps d'explorer chaque élément interactif – chaque clic et chaque mouvement enrichissent l'expérience.
+
+---
 
 ## Ressenti
 J'ai trouvé l'expérience à la fois motivante et accessible.  
-L'association de l'activité physique et du numérique transforme le pédalage en un jeu stimulant qui m'encourage à me dépasser tout en profitant d'une expérience interactive bien conçue.
+L'association de l'activité physique et du numérique transforme le pédalage en un jeu stimulant qui m'encourage à me dépasser, tout en offrant une expérience interactive directement liée à ma performance.
+
+---
+
+## Démarche d'utilisation de l'appareil
+1. **Installation** : L'utilisateur s'installe sur le vélo stationnaire, qui constitue l'interface principale.
+2. **Activation** : En pédalant, les capteurs mesurent la force appliquée, le nombre de tours effectués et la vitesse de pédalage.
+3. **Transmission** : Ces données sont envoyées à l'ordinateur de contrôle, qui les convertit en informations pour le jeu.
+4. **Projection** : Les informations sont projetées sur un grand écran, où le jeu de course évolue en temps réel selon la performance.
+5. **Interaction** : L'utilisateur suit son score et ajuste son effort pour améliorer ses performances, transformant ainsi l'exercice en un défi interactif.
 
 ---
 
 ## Liste des composantes de l'installation
-*(Chaque composante est clairement identifiée et intégrée avec des images pertinentes, conformément aux critères de la grille d’évaluation.)*
+*(Explications simples et efficaces)*
 
 - **Vélo Stationnaire**  
   *Interface principale* :  
-  Le pédalage et la vitesse sont convertis en données, établissant un lien direct entre l'effort physique et l'environnement virtuel.  
+  Convertit l'effort physique en données interactives.  
   ![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)
 
 - **Projecteur / Écran**  
-  *Affichage interactif* :  
-  Diffuse des visuels en temps réel qui réagissent aux interactions, transformant l'espace en une toile numérique dynamique.  
+  *Affichage* :  
+  Affiche en temps réel le jeu de course et les visuels générés par l'interaction.  
   ![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)
 
 - **Schéma Filaire**  
-  *Raccordements techniques* :  
-  Illustrant comment les différents éléments (capteurs, LED, microcontrôleur) sont interconnectés pour assurer une synchronisation optimale.  
+  *Raccordement* :  
+  Montre comment les différents composants (capteurs, microcontrôleur, etc.) sont connectés pour transmettre les données.  
   ![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)
 
 - **Enceintes Audio**  
-  *Ambiance sonore* :  
-  Diffusent une trame sonore synchronisée avec les interactions, renforçant l'immersion globale.
+  *Sonorisation* :  
+  Diffusent le son synchronisé avec le jeu, renforçant l'immersion.
 
-- **Capteurs (interrupteurs, capteurs de mouvement, etc.)**  
-  *Collecte de données* :  
-  Captent la vitesse, la pression et la rotation, transformant chaque geste en information exploitable pour enrichir l'expérience.
+- **Capteurs**  
+  *Mesure* :  
+  Captent la force appliquée, le nombre de tours et la vitesse de pédalage, fournissant ainsi les données en temps réel pour le jeu.
 
-- **LED et Signaux Lumineux**  
-  *Feedback visuel* :  
-  Fournissent une rétroaction immédiate, indiquant l'état des interactions et ajoutant une dimension esthétique.
-
-- **Carte de Prototypage (Arduino ou autre microcontrôleur)**  
-  *Cerveau technique* :  
-  Centralise et transmet les données des capteurs à l’ordinateur de contrôle pour orchestrer l'ensemble du dispositif.
+- **Carte de Prototypage**  
+  *Contrôle* :  
+  Centralise et transmet les données des capteurs à l'ordinateur de contrôle.
 
 - **Ordinateur de Contrôle**  
   *Cœur du système* :  
-  Exécute le logiciel interactif qui gère la logique de l'installation et synchronise les données en temps réel.
+  Exécute le logiciel interactif qui orchestre l’ensemble du dispositif et met à jour le jeu de course en fonction de la performance.
 
 ---
 
-*Cette présentation a été conçue en respectant les consignes d'une organisation rigoureuse, un nommage clair et une intégration soignée des images, conformément à la grille d’évaluation. Elle reflète mes idées et mon ressenti sur la fusion innovante entre le sport et le multimédia dans cette installation interactive.*
