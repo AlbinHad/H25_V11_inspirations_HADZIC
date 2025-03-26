@@ -22,7 +22,7 @@ J'apprécie particulièrement que Web-C0N-DU8 combine le sport et l'interaction 
 Le jeu, directement lié à la performance sur le vélo stationnaire, prend en compte la force appliquée, le nombre de tours effectués et la vitesse de pédalage, transformant ainsi l'effort en un défi ludique et motivant.  
 Chaque interaction révèle une nouvelle dimension, alliant défi physique et plaisir interactif.
 
-> 💡 **Astuce** : Prenez le temps d'explorer chaque élément interactif – chaque clic et chaque mouvement enrichissent l'expérience.
+
 
 ---
 
