@@ -1,6 +1,6 @@
 # Web-C0N-DU8
 
-![photo_expo_finissants](diffusion_complet.jpeg)
+![photo](diffusion_complet.jpeg)
 
 Diffusion complète de l'installation Web-C0N-DU8, une œuvre immersive réalisée par GearShift Games, 2025.
 
