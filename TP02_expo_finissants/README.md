@@ -1,1 +1,1 @@
-Ce dossier va contenir la documentation de l'exposition des finissants 
+Ce dossier va contenir les photos de l'expositions des finissants
