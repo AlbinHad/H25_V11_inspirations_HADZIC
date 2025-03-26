@@ -21,8 +21,9 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Etheria GitHub (https://ethereal-creators.github.io/Etheria/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J’attendais une expérience immersive alliant art et technologie.   
-- Après l'expérimentation : J'ai vraiment apprécié les jeux proposés, et l'expérience s'est avérée amusante et facile d'utilisation.
+- Avant l'expérimentation : J’attendais une expérience immersive alliant art et technologie.  
+- Après l'expérimentation : J'ai vraiment apprécié les jeux proposés, et l'expérience s'est avérée amusante et facile d'utilisation, transformant chaque mouvement en un défi interactif motivant.
+
 ---
 
 ## Luminatura
@@ -36,9 +37,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Luminatura GitHub (https://miaou-mafia.github.io/projet-luminatura/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'attendais une immersion visuelle marquante.  
-- Après, j'ai constaté que l'installation, grâce à ses transitions de couleurs et son ambiance lumineuse, créait une atmosphère à la fois apaisante et stimulante.
-
+- Avant l'expérimentation : J'attendais une immersion visuelle marquante et innovante.  
+- Après l'expérimentation : L'installation offre une expérience immersive subtile et engageante, avec une scénographie soignée qui joue avec les transitions de couleurs et crée une ambiance lumineuse stimulante.
 
 ---
 
@@ -53,8 +53,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Internature GitHub (https://tprangers.github.io/internature/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais curieux de découvrir comment des éléments naturels pouvaient être intégrés à une installation interactive.  
-- Après l'expérimentation : L'installation crée un équilibre intéressant entre nature et technologie, offrant une ambiance immersive qui invite à la réflexion.
+- Avant l'expérimentation : J'étais curieux(se) de découvrir comment des éléments naturels pouvaient être intégrés à une installation interactive.  
+- Après l'expérimentation : L'installation crée un équilibre harmonieux entre nature et technologie, et les bruits authentiques de la nature nous mettaient vraiment dans l'ambiance, renforçant l'expérience immersive.
 
 ---
 
@@ -70,23 +70,7 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
 
 *Ressenti et Justification* :  
 - Avant l'expérimentation : J'espérais une approche visuelle audacieuse et interactive.  
-- Après l'expérimentation : L'interactivité et l'esthétique se démarquent, même si l'intégration globale paraît moins aboutie comparativement aux autres projets.
-
----
-
-## Arcadia
-[Arcadia GitHub](https://cousi-cousa.github.io/Arcadia/#/)
-
-- Installation finale dans les studios  
-  ![Photo Arcadia](photos_expo_finissants/photo_arcadia.jpg)  
-  *Source : Arcadia GitHub (https://cousi-cousa.github.io/Arcadia/#/)*
-- Schéma de l'installation prévue  
-  ![Plantation Arcadia](photos_expo_finissants/plantation_arcadia.png)  
-  *Source : Arcadia GitHub (https://cousi-cousa.github.io/Arcadia/#/)*
-
-*Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais curieux(se) de voir comment l'esthétique et la technologie se fusionneraient.  
-- Après l'expérimentation : L'installation se distingue par sa scénographie soignée et une atmosphère singulière, même si l'interactivité est moins prononcée.
+- Après l'expérimentation : L'interactivité et l'esthétique se démarquent, bien que l'intégration globale semble moins aboutie comparativement aux autres projets.
 
 ---
 
@@ -102,7 +86,23 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
 
 *Ressenti et Justification* :  
 - Avant l'expérimentation : J'étais intéressé(e) par la manière dont l'interactivité pouvait transformer l'expérience sensorielle dans un contexte ludique.  
-- Après l'expérimentation : L'installation Fuga réussit à combiner habilement l'aspect immersif du jeu de course avec une scénographie dynamique, créant un défi interactif stimulant et motivant.
+- Après l'expérimentation : L'installation Fuga parvient à combiner de manière efficace l'aspect immersif du jeu de course avec une scénographie dynamique, créant un défi interactif stimulant et motivant.
+
+---
+
+## Arcadia
+[Arcadia GitHub](https://cousi-cousa.github.io/Arcadia/#/)
+
+- Installation finale dans les studios  
+  ![Photo Arcadia](photos_expo_finissants/photo_arcadia.jpg)  
+  *Source : Arcadia GitHub (https://cousi-cousa.github.io/Arcadia/#/)*
+- Schéma de l'installation prévue  
+  ![Plantation Arcadia](photos_expo_finissants/plantation_arcadia.png)  
+  *Source : Arcadia GitHub (https://cousi-cousa.github.io/Arcadia/#/)*
+
+*Ressenti et Justification* :  
+- Avant l'expérimentation : J'étais curieux(se) de voir comment l'esthétique et la technologie se fusionneraient.  
+- Après l'expérimentation : L'installation se distingue par sa scénographie soignée et une atmosphère singulière, bien que l'interactivité y soit moins prononcée.
 
 ---
 
@@ -117,4 +117,4 @@ Pour développer les compétences nécessaires, je recommande les cours suivants
 
 ---
 
-
+*Cette fiche a été réalisée en respectant les consignes et*
