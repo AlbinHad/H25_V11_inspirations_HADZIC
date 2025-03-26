@@ -21,9 +21,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Etheria GitHub (https://ethereal-creators.github.io/Etheria/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J’attendais une expérience immersive alliant art et technologie.  
-- Après l'expérimentation : La fluidité de l’interaction et la conversion directe des données (force, nombre de tours, vitesse) en un défi interactif m’ont convaincu(e) de la pertinence de ce projet.
-
+- Avant l'expérimentation : J’attendais une expérience immersive alliant art et technologie.   
+- Après l'expérimentation : J'ai vraiment apprécié les jeux proposés, et l'expérience s'est avérée amusante et facile d'utilisation.
 ---
 
 ## Luminatura
@@ -37,8 +36,9 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Luminatura GitHub (https://miaou-mafia.github.io/projet-luminatura/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'attendais une immersion visuelle marquante et innovante.  
-- Après l'expérimentation : L'installation offre une expérience immersive subtile et engageante, avec une scénographie soignée.
+- Avant l'expérimentation : J'attendais une immersion visuelle marquante.  
+- Après, j'ai constaté que l'installation, grâce à ses transitions de couleurs et son ambiance lumineuse, créait une atmosphère à la fois apaisante et stimulante.
+
 
 ---
 
@@ -53,7 +53,7 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Internature GitHub (https://tprangers.github.io/internature/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais curieux(se) de découvrir comment des éléments naturels pouvaient être intégrés à une installation interactive.  
+- Avant l'expérimentation : J'étais curieux de découvrir comment des éléments naturels pouvaient être intégrés à une installation interactive.  
 - Après l'expérimentation : L'installation crée un équilibre intéressant entre nature et technologie, offrant une ambiance immersive qui invite à la réflexion.
 
 ---
