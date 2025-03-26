@@ -85,10 +85,8 @@ De plus, trois cours essentiels sont identifiés pour acquérir les compétences
   *Source : Fuga GitHub (https://escapism-fuga.github.io/Fuga/#/)*
 
 *Ressenti et Justification* :  
-- Avant l'expérimentation : J'étais intéressé(e) par la manière dont l'interactivité pouvait transformer l'expérience sensorielle dans un contexte ludique.  
-- Après l'expérimentation : L'installation Fuga parvient à combiner de manière efficace l'aspect immersif du jeu de course avec une scénographie dynamique, créant un défi interactif stimulant et motivant.
-
----
+- Avant l'expérimentation : J'étais intéressé(e) par la manière dont l'interactivité pouvait transformer l'expérience sensorielle dans un contexte de nature.
+- Après l'expérimentation : Les sons authentiques de la nature diffusés dans l'installation nous plongeaient vraiment dans l'ambiance, créant un équilibre harmonieux entre nature et technologie, et renforçant l'expérience immersive.
 
 ## Arcadia
 [Arcadia GitHub](https://cousi-cousa.github.io/Arcadia/#/)
