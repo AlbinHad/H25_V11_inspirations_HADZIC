@@ -1,6 +1,7 @@
 # Web-C0N-DU8
 
 ![Diffusion complète](photos_expo_finissants/diffusion_complet.webp)
+*Image provenant du GitHub de GearShift Games*
 
 Diffusion complète de l'installation Web-C0N-DU8, une œuvre immersive réalisée par GearShift Games, 2025.
 
@@ -20,7 +21,6 @@ L'installation propose une narration digitale efficace qui incite chaque spectat
 Ce que j'apprécie dans cette installation, c'est la rigueur de l'intégration entre l'activité physique et le multimédia.  
 Le système de jeu de course, directement lié aux performances sur le vélo stationnaire, mesure la force appliquée, le nombre de tours effectués et la vitesse de pédalage.  
 Cette approche offre un retour objectif sur l'effort fourni et transforme l'exercice en un défi interactif sérieux et engageant.
-
 
 ---
 
@@ -44,15 +44,18 @@ Elle me pousse à me dépasser grâce à une interface simple et efficace, et l'
 
 - **Vélo Stationnaire**  
   Permet de convertir l'effort physique en données interactives.  
-  ![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)
+  ![Plan du jeu et du vélo](photos_expo_finissants/plan_jeu_velo.webp)  
+  *Image provenant du GitHub de GearShift Games*
 
 - **Projecteur / Écran**  
   Affiche en temps réel le jeu de course et les visuels générés par l'interaction.  
-  ![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)
+  ![Plan de l’écran](photos_expo_finissants/plan_ecran.webp)  
+  *Image provenant du GitHub de GearShift Games*
 
 - **Schéma Filaire**  
   Montre comment les composants (capteurs, microcontrôleur, etc.) sont connectés pour transmettre les données.  
-  ![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)
+  ![Schéma filaire](photos_expo_finissants/lien_filaire.jpeg)  
+  *Photo prise par moi*
 
 - **Enceintes Audio**  
   Diffusent le son synchronisé avec le jeu, renforçant l'immersion.
@@ -67,6 +70,7 @@ Elle me pousse à me dépasser grâce à une interface simple et efficace, et l'
   Exécute le logiciel interactif qui orchestre l’ensemble du dispositif et met à jour le jeu de course en fonction de la performance.
 
 ---
+
 
 
 
