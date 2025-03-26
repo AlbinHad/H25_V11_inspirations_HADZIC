@@ -17,7 +17,6 @@ Maik Hamel
 Michael Un Dupré
 Pierre-Luc Proulx
 Victor Gileau
-
 **Installation** :  
 - **Statut** : Installation finale dans les studios  
 - **Photo de l'installation** :  
