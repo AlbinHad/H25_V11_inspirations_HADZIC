@@ -61,13 +61,13 @@ Elle me pousse à me dépasser grâce à une interface simple et efficace, et l'
   Diffusent le son synchronisé avec le jeu, renforçant l'immersion.
 
 - **Capteurs**  
-  Mesurent la force appliquée, le nombre de tours et la vitesse de pédalage pour alimenter le jeu en temps réel.
+  Mesurent la force appliquée, le nombre de tours et la vitesse de pédalage pour le jeu en temps réel.
 
 - **Carte de Prototypage**  
   Centralise et transmet les données des capteurs à l'ordinateur de contrôle.
 
 - **Ordinateur de Contrôle**  
-  Exécute le logiciel interactif qui orchestre l’ensemble du dispositif et met à jour le jeu de course en fonction de la performance.
+  Exécute le logiciel interactif qui dirige l’ensemble du dispositif et met à jour le jeu de course en fonction de la performance.
 
 ---
 
