@@ -1,4 +1,4 @@
-# Logistique et exposition d’une œuvre numérique
+# Logistique et exposition d’une œuvre multimédiatique
 
 ## Présentation
 
