@@ -22,14 +22,8 @@ Camp Wakonda est une installation composée de matériaux variés comme du bois 
 **Photos de l'œuvre :**
 ![Vue générale](photos_MBAM/oeuvre_ensemble.jpeg)  
 _Photo prise par moi lors de la visite_
-_Photo prise par moi lors de la visite_
--   
-_Photo prise par moi lors de la visite_
--   
-_Photo prise par moi lors de la visite_
 
 ---
-
 ## Type d'installation
 
 - **Type :** Immersive et contemplative
