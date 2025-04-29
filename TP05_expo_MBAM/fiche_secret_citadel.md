@@ -114,7 +114,7 @@ Cela m’inspire beaucoup pour mes propres projets multimédias, en me donnant e
 
 ---
 
-_Fiche réalisée dans le cadre du cours Œuvres et dispositifs multimédias en exposition (570V11MO), session Hiver 2025, Collège Montmorency._
+
 
 
 
