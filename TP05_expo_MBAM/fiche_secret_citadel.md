@@ -2,91 +2,104 @@
 
 ## Informations générales
 
-- **Nom de l'exposition :** Secret Citadel
-- **Lieu de mise en exposition :** Musée des beaux-arts de Montréal
-- **Type d'exposition :** Nouvelle acquisition, exposition intérieure
-- **Date de la visite :** 3 avril
+- **Nom de l'exposition :** Secret Citadel  
+- **Lieu de mise en exposition :** Musée des beaux-arts de Montréal  
+- **Type d'exposition :** Nouvelle acquisition, exposition intérieure  
+- **Date de la visite :** 3 avril 2025
 
 ---
 
 ## Œuvre choisie
 
-- **Titre de l'œuvre :** Camp Wakonda
-- **Nom de l'artiste :** Graeme Patterson
+- **Titre de l'œuvre :** Camp Wakonda  
+- **Nom de l'artiste :** Graeme Patterson  
 - **Année de réalisation :** 2013
 
 ### Description de l'œuvre
 
-Camp Wakonda est une installation composée de matériaux variés comme du bois torréfié, du balsa, des branches d’arbre, du polyester, de l’aluminium, des maquettes miniatures, de la peinture acrylique, et des vidéos d’animation en stop-motion. L’œuvre est une mise en scène touchante et nostalgique, explorant la perte et la résilience à travers la relation de deux amis animaux qui se déchirent après un accident. Elle est constituée de huit courts-métrages projetés sur des écrans ACL à l’aide de projecteurs numériques.
+*Camp Wakonda* est une installation immersive composée de maquettes miniatures en bois, de matériaux naturels, de vidéos projetées en stop-motion et d’un dispositif scénographique évoquant un camp d’été. L’œuvre traite de la mémoire, de l’amitié et de la nostalgie à travers huit courts-métrages projetés dans des cabanes miniatures.
 
-**Photos de l'œuvre :**
-![Vue générale](photos_MBAM/oeuvre_ensemble.jpeg)  
-_Photo prise par moi lors de la visite_
+**Vue d'ensemble de l'œuvre :**  
+![Vue générale de l'œuvre](photos_MBAM/oeuvre_ensemble.jpeg)
 
 ---
+
 ## Type d'installation
 
-- **Type :** Immersive et contemplative
-- **Description de l'interaction ou de la contemplation :** Le visiteur est invité à observer les scènes à travers une maquette en bois simulant une cabane de camp. Les vidéos diffusées à l’intérieur, visibles à travers des ouvertures précises, plongent le spectateur dans une ambiance intime et nostalgique.
+- **Type :** Immersive et contemplative  
+- **Interaction :** Le visiteur se déplace librement autour de l’installation et observe les courts-métrages à travers les ouvertures de cabanes miniatures. Aucune interaction directe, mais une observation intime et guidée par la lumière et le son.
 
 ---
 
 ## Mise en espace
 
-L’œuvre est placée au centre d’une pièce sombre. La structure de bois repose sur des lits superposés, évoquant l’ambiance d’un camp de vacances. Des éléments naturels (branches, herbes) décorent les scènes miniatures à l’intérieur. La projection se fait à l’aide de projecteurs fixés au plafond.
+L’installation est montée sur deux lits superposés en bois, placés au centre d’une pièce sombre. À l’intérieur des structures se trouvent des cabanes miniatures projetant les vidéos. L’éclairage ciblé et les projecteurs suspendus créent une ambiance feutrée.
 
-**Croquis :**
-- [À insérer]
+**Photos de la mise en espace :**  
+![Vue intérieure](photos_MBAM/point_vue_interieur.jpeg)  
+![Vue du dessus](photos_MBAM/point_vue_dessus.jpeg)  
+![Structure ouverte](photos_MBAM/point_vue_structure.jpeg)
 
-**Photos de la mise en espace :**
--   
-_Photo prise par moi lors de la visite_
--   
-_Photo prise par moi lors de la visite_
+**Croquis de la mise en espace :**  
+![Croquis](photos_MBAM/croquis_mise_en_espace.jpeg)
 
 ---
 
 ## Composantes et techniques
 
-- Bois torréfié, balsa, branches, fibre et film polyester, tôle d’aluminium
-- Modèles réduits, peinture acrylique, polymère synthétique
-- Animation image par image (stop-motion)
-- Écrans ACL et projecteurs numériques
+- **Matériaux :** Bois torréfié, balsa, branches naturelles, fibre, polyester, tôle d’aluminium, peinture acrylique, polymère synthétique  
+- **Techniques :** Maquettisme, animation image par image (stop motion), vidéo projetée  
+- **Technologies :**  
+  - Écrans ACL intégrés  
+  - Mini-projecteurs numériques  
+  - Structure scénographique immersive
+
+**Photos des composantes techniques :**  
+![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
+![Grand projecteur](photos_MBAM/grand_projecteur.jpeg)
 
 ---
 
-## Éléments de mise en exposition
+## Éléments nécessaires à la mise en exposition
 
-- Projecteurs fixés au plafond
-- Lits superposés comme structure d'installation
-- Éclairage ponctuel contrôlé
-- Présence d’une distance sécuritaire au sol (ruban discret)
+- Deux lits superposés comme support de la structure  
+- Mini-projecteurs et écrans intégrés  
+- Éclairage suspendu et dirigé  
+- Cloisons noires pour isoler la salle  
+- Fils et câbles dissimulés  
+- Bande de sécurité au sol
+
+**Photos des éléments techniques de présentation :**  
+![Plan de l’éclairage](photos_MBAM/plan_eclairage.jpeg)  
+![Disposition des écrans](photos_MBAM/plan_tv.jpeg)
+
+**Cartel de l'œuvre :**  
+![Plaque descriptive](photos_MBAM/plaque_info.jpeg)
 
 ---
 
 ## Expérience vécue
 
-L’expérience du visiteur est immersive et intimiste. On s’approche, on se penche, on observe à travers les maquettes comme si on regardait des souvenirs. L’ambiance feutrée et la lumière ciblée guident l’attention vers les vidéos et leurs détails sensibles.
+L’ambiance sombre de la pièce incite à l’introspection. On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes. L’absence de son intrusif renforce la concentration sur l’image. Le dispositif évoque des souvenirs d’enfance, rendant l’expérience à la fois intime et universelle.
 
-**Vidéo/photo du point de vue visiteur :**
--   
-_Photo prise par moi lors de la visite_
+**Photo du point de vue du visiteur :**  
+![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)
 
 ---
 
 ## Appréciation personnelle
 
-- **Ce que j'ai aimé :** L’originalité du dispositif, la charge émotive forte, la nostalgie tangible dans les vidéos.
-- **Pourquoi :** L’usage d’un support miniature et d’un environnement immersif m’a permis de me sentir plongé dans l’histoire. L’approche artisanale rend le message plus humain et touchant.
+Ce qui m’a le plus touché dans *Camp Wakonda*, c’est l’utilisation de maquettes miniatures pour raconter une histoire aussi émotive et personnelle. L’effet de “regarder dans un souvenir” est saisissant. La précision artisanale combinée à la technologie donne une œuvre à la fois tactile et numérique.  
+Cela m’inspire beaucoup pour mes propres projets multimédias, en me donnant envie de combiner sculpture et vidéo.
 
 ---
 
 ## Sources et références
 
-- Cartel officiel de l’exposition (photo prise sur place)
-- Observation directe et notes prises au Musée des beaux-arts de Montréal
+- Cartel officiel de l’exposition (photo prise sur place)  
+- Observation directe et documentation visuelle personnelle  
+- Fichier : `H25_TIM_TP5_banque_inspirations_grille_evaluation.pdf`
 
 ---
 
-> **Note :** Bien renommer tes fichiers image dans ton repo GitHub pour qu'ils correspondent aux noms utilisés ici (par exemple : `oeuvre_ensemble.jpeg`, `micro_projecteur.jpeg`, etc.).
-
+_Fiche réalisée dans le cadre du cours Œuvres et dispositifs multimédias en exposition (570V11MO), session Hiver 2025, Collège Montmorency._
