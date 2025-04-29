@@ -93,8 +93,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 
 ## Expérience vécue
 
-L’ambiance de la salle était sombre et calme, ce qui mettait bien en valeur l’installation. En marchant autour, je devais me pencher pour regarder les vidéos projetées à l’intérieur des maquettes.  
-Les scènes animées faisaient penser à des souvenirs d’enfance.
+L’ambiance de la salle était sombre et calme, ce qui mettait bien en valeur l’installation. En marchant autour, je devais me pencher pour regarder les vidéos projetées à l’intérieur des maquettes.  Les scènes animées faisaient penser à des souvenirs d’enfance.
 
 ![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)  
 *Expérience du visiteur : observation rapprochée de l’intérieur des cabanes — photo prise par moi*
