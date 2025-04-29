@@ -1,4 +1,4 @@
-# Banque d'inspiration - Travail 5
+# Travail 5
 
 ## Informations générales
 
