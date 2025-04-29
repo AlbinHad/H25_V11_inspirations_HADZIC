@@ -41,7 +41,8 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 ![Structure ouverte](photos_MBAM/point_vue_structure.jpeg)
 
 **Croquis de la mise en espace :**  
-![Croquis](photos_MBAM/croquis_mise_en_espace.jpeg)
+![Croquis](photos_MBAM/croquis_mise_en_espace.png)
+
 
 ---
 
