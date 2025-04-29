@@ -57,6 +57,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
   - Mini-projecteurs numériques  
   - Haut-parleurs
   - Projecteur principal
+
 ![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
 *Mini projecteur numérique utilisé dans l’œuvre — photo prise par moi*
 
