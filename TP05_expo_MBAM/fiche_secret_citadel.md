@@ -27,7 +27,7 @@
 ## Type d'installation
 
 - **Type :** Immersive et contemplative  
-- **Interaction :** Le visiteur se déplace librement autour de l’installation et observe les courts-métrages à travers les ouvertures de cabanes miniatures. Aucune interaction directe, mais une observation intime et guidée par la lumière et le son.
+- **Interaction :** Le visiteur se déplace librement autour de l’installation et observe les courts-métrages à travers les ouvertures de cabanes miniatures. Aucune interaction directe, mais une observation et guidée par la lumière et le son.
 
 ---
 
