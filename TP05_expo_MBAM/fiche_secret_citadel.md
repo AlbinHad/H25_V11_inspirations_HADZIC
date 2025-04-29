@@ -73,7 +73,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 - Mini-projecteurs et écrans intégrés  
 - Éclairage suspendu et dirigé  
 - Cloisons noires pour isoler la salle  
-- Fils et câbles dissimulés  
+- Fils et câbles cachés  
 - Bande de sécurité au sol
 
 ![Plan de l’éclairage](photos_MBAM/plan_eclairage.jpeg)  
