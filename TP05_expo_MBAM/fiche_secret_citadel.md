@@ -54,10 +54,10 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 - **Matériaux :** Bois torréfié, balsa, branches naturelles, fibre, polyester, tôle d’aluminium, peinture acrylique, polymère synthétique  
 - **Techniques :** Maquettisme, animation image par image (stop motion), vidéo projetée  
 - **Technologies :**  
-  - Écrans intégrés  
+  - Écrans   
   - Mini-projecteurs numériques  
-  - É
-
+  - Haut-parleurs
+  - Projecteur principal
 ![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
 *Mini projecteur numérique utilisé dans l’œuvre — photo prise par moi*
 
