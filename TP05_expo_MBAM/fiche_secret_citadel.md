@@ -92,7 +92,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 
 ## Expérience vécue
 
-On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes. Le dispositif évoque des souvenirs d’enfance, rendant l’expérience à la fois nostalgique.
+On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes et les projections. L'oeuvre évoque des souvenirs d’enfance, rendant l’expérience à la fois nostalgique.
 
 ![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)  
 *Expérience du visiteur : observation rapprochée des vidéos à l’intérieur des cabanes — photo prise par moi*
