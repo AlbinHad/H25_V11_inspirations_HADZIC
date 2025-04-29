@@ -41,10 +41,10 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 *Vue de haut des maquettes — photo prise par moi*
 
 ![Structure ouverte](photos_MBAM/point_vue_structure.jpeg)  
-* Structure de la cabane — photo prise par moi*
+*Structure de la cabane — photo prise par moi*
 
 ![Croquis de la mise en espace](photos_MBAM/croquis_mise_en_espace.png)  
-*Croquis des lits superposés et du projecteur — photo prise par moi*
+*Croquis des lits superposés et du projecteur — croquis fait par moi*
 
 ---
 
