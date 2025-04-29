@@ -20,7 +20,7 @@
 *Camp Wakonda* est une installation immersive composée de maquettes miniatures en bois, de matériaux naturels, de vidéos projetées en stop-motion et d’un dispositif scénographique évoquant un camp d’été. L’œuvre traite de la mémoire, de l’amitié et de la nostalgie à travers huit courts-métrages projetés dans des cabanes miniatures.
 
 ![Vue générale de l'œuvre](photos_MBAM/oeuvre_ensemble.jpeg)  
-*Vue d'ensemble de l'installation Camp Wakonda*
+*Vue d'ensemble de l'installation Camp Wakonda — photo prise par moi*
 
 ---
 
@@ -36,16 +36,16 @@
 L’installation est montée sur deux lits superposés en bois, placés au centre d’une pièce sombre. À l’intérieur des structures se trouvent des cabanes miniatures projetant les vidéos. L’éclairage ciblé et les projecteurs suspendus créent une ambiance feutrée.
 
 ![Vue intérieure](photos_MBAM/point_vue_interieur.jpeg)  
-*Point de vue depuis l’intérieur d’une structure*
+*Point de vue depuis l’intérieur d’une structure — photo prise par moi*
 
 ![Vue du dessus](photos_MBAM/point_vue_dessus.jpeg)  
-*Disposition vue de haut des maquettes*
+*Disposition vue de haut des maquettes — photo prise par moi*
 
 ![Structure ouverte](photos_MBAM/point_vue_structure.jpeg)  
-*Cabane ouverte avec accès visuel aux écrans*
+*Cabane ouverte avec accès visuel aux écrans — photo prise par moi*
 
 ![Croquis de la mise en espace](photos_MBAM/croquis_mise_en_espace.png)  
-*Croquis expliquant la disposition des lits superposés et du projecteur*
+*Croquis explicatif des lits superposés et du projecteur — photo prise par moi*
 
 ---
 
@@ -59,10 +59,10 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
   - Structure scénographique immersive
 
 ![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
-*Mini projecteur numérique utilisé dans l’œuvre*
+*Mini projecteur numérique utilisé dans l’œuvre — photo prise par moi*
 
 ![Grand projecteur](photos_MBAM/grand_projecteur.jpeg)  
-*Projecteur principal suspendu au plafond*
+*Projecteur principal suspendu au plafond — photo prise par moi*
 
 ---
 
@@ -76,13 +76,13 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 - Bande de sécurité au sol
 
 ![Plan de l’éclairage](photos_MBAM/plan_eclairage.jpeg)  
-*Disposition des lumières au plafond*
+*Disposition des lumières au plafond — photo prise par moi*
 
 ![Disposition des écrans](photos_MBAM/plan_tv.jpeg)  
-*Schéma de positionnement des écrans ACL*
+*Schéma de positionnement des écrans ACL — photo prise par moi*
 
 ![Plaque descriptive](photos_MBAM/plaque_info.jpeg)  
-*Cartel de présentation de l’œuvre*
+*Cartel de présentation de l’œuvre — photo prise par moi*
 
 ---
 
@@ -91,7 +91,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 L’ambiance sombre de la pièce incite à l’introspection. On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes. L’absence de son intrusif renforce la concentration sur l’image. Le dispositif évoque des souvenirs d’enfance, rendant l’expérience à la fois intime et universelle.
 
 ![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)  
-*Expérience du visiteur : observation rapprochée des vidéos à l’intérieur des cabanes*
+*Expérience du visiteur : observation rapprochée des vidéos à l’intérieur des cabanes — photo prise par moi*
 
 ---
 
@@ -111,3 +111,6 @@ Cela m’inspire beaucoup pour mes propres projets multimédias, en me donnant e
 ---
 
 _Fiche réalisée dans le cadre du cours Œuvres et dispositifs multimédias en exposition (570V11MO), session Hiver 2025, Collège Montmorency._
+
+
+
