@@ -54,9 +54,9 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 - **Matériaux :** Bois torréfié, balsa, branches naturelles, fibre, polyester, tôle d’aluminium, peinture acrylique, polymère synthétique  
 - **Techniques :** Maquettisme, animation image par image (stop motion), vidéo projetée  
 - **Technologies :**  
-  - Écrans ACL intégrés  
+  - Écrans intégrés  
   - Mini-projecteurs numériques  
-  - Structure scénographique immersive
+  - É
 
 ![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
 *Mini projecteur numérique utilisé dans l’œuvre — photo prise par moi*
@@ -88,7 +88,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 
 ## Expérience vécue
 
-L’ambiance sombre de la pièce incite à l’introspection. On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes. L’absence de son intrusif renforce la concentration sur l’image. Le dispositif évoque des souvenirs d’enfance, rendant l’expérience à la fois intime et universelle.
+On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes. Le dispositif évoque des souvenirs d’enfance, rendant l’expérience à la fois nostalgique.
 
 ![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)  
 *Expérience du visiteur : observation rapprochée des vidéos à l’intérieur des cabanes — photo prise par moi*
