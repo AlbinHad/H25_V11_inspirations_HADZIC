@@ -114,7 +114,7 @@ Cette œuvre m’inspire beaucoup pour mes futurs projets en multimédias. Elle 
 
 - Cartel officiel de l’exposition (photo prise sur place)  
 - Observation directe et documentation visuelle personnelle  
-- Fichier : `H25_TIM_TP5_banque_inspirations_grille_evaluation.pdf`
+
 
 ---
 
