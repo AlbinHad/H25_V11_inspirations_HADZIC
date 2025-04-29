@@ -79,7 +79,7 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 *Disposition des lumières au plafond — photo prise par moi*
 
 ![Disposition des écrans](photos_MBAM/plan_tv.jpeg)  
-*Schéma de positionnement des écrans ACL — photo prise par moi*
+*positionnement des écrans  — photo prise par moi*
 
 ---
 
