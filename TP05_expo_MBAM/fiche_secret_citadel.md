@@ -112,7 +112,7 @@ Cette œuvre m’inspire beaucoup pour mes futurs projets en multimédias. Elle 
 
 ## Sources et références
 
-- Cartel officiel de l’exposition (photo prise sur place)  
+- Cartel officiel de l’exposition   
 - Observation directe et documentation visuelle personnelle  
 
 
