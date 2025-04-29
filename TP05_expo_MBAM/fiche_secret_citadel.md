@@ -32,7 +32,7 @@
 
 ## Mise en espace
 
-L’installation est montée sur deux lits superposés en bois, placés au centre d’une pièce sombre. À l’intérieur des structures se trouvent des cabanes miniatures projetant les vidéos. L’éclairage ciblé et les projecteurs suspendus créent une ambiance unique.
+L’installation est montée sur deux lits superposés en bois, placés au centre d’une pièce sombre. À l’intérieur des structures se trouvent des cabanes miniatures projetant les vidéos. L’éclairage ciblé et les projecteurs suspendus créent une ambiance apaisante.
 
 ![Vue intérieure](photos_MBAM/point_vue_interieur.jpeg)  
 *Point de vue depuis l’intérieur d’une structure — photo prise par moi*
