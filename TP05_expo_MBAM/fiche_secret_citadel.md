@@ -53,10 +53,11 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 - **Matériaux :** Bois torréfié, balsa, branches naturelles, fibre, polyester, tôle d’aluminium, peinture acrylique, polymère synthétique  
 - **Techniques :** Maquettisme, animation image par image (stop motion), vidéo projetée  
 - **Technologies :**  
-  - Écrans   
-  - Mini-projecteurs numériques  
-  - Haut-parleurs
-  - Projecteur principal
+  - Écrans visionne les video du fond en boucle. 
+  - Mini-projecteurs numériques  projete les vidéos dans les cabanes. Ils permettent une diffusion ciblée et discrète.
+  - Haut-parleurs ajoute une ambiance sonore.
+  - Projecteur principal utilisé pour isoler certaines parties visuelles et diriger le regard. Il évite d’éclairer toute la pièce, ce qui renforce l’immersion.
+
 
 ![Mini projecteur](photos_MBAM/micro_projecteur.jpeg)  
 *Mini projecteur numérique utilisé dans l’œuvre — photo prise par moi*
