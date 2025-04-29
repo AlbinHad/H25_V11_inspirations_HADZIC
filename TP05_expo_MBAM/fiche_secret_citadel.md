@@ -92,19 +92,22 @@ L’installation est montée sur deux lits superposés en bois, placés au centr
 
 ## Expérience vécue
 
-On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes et les projections. L'oeuvre évoque des souvenirs d’enfance, rendant l’expérience à la fois nostalgique.
+On marche autour de l’œuvre, on se penche pour observer les écrans à l’intérieur des maquettes et les projections. L'oeuvre demontre des souvenirs d’enfance, rendant l’expérience nostalgique.
 
 ![Point de vue immersif](photos_MBAM/point_vue_interieur.jpeg)  
-*Expérience du visiteur : observation rapprochée des vidéos à l’intérieur des cabanes — photo prise par moi*
+*Expérience du visiteur : observation rapprochée de l’intérieur des cabanes — photo prise par moi*
 
 ---
 
 ## Appréciation personnelle
 
-Ce qui m’a le plus touché dans *Camp Wakonda*, c’est l’utilisation de maquettes miniatures pour raconter une histoire aussi émotive et personnelle. L’effet de “regarder dans un souvenir” est saisissant. La précision artisanale combinée à la technologie donne une œuvre à la fois tactile et numérique.  
-Cela m’inspire beaucoup pour mes propres projets multimédias, en me donnant envie de combiner sculpture et vidéo.
+## Appréciation personnelle
 
----
+Ce qui m’a le plus touché dans *Camp Wakonda*, c’est l’utilisation de maquettes miniatures pour raconter une histoire émotive. L’effet de “regarder dans un souvenir” est unique et m’a marqué.  
+J’ai beaucoup apprécié l’ambiance chaleureuse créée par la lumière tamisée et les matériaux naturels. Cela rendait l’œuvre réconfortante et nostalgique. Je me sentais calme en l’observant.
+
+Cette œuvre m’inspire beaucoup pour mes futurs projets en multimédias. Elle me donne envie de réaliser un projet combinant le maquettisme et la vidéo, deux domaines que j'apprécie particulièrement et qui sont aussi liés à mon intérêt envers l’architecture.
+
 
 ## Sources et références
 
