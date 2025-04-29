@@ -17,7 +17,7 @@
 
 ### Description de l'œuvre
 
-*Camp Wakonda* est une installation immersive composée de maquettes miniatures en bois, de matériaux naturels, de vidéos projetées en stop-motion et d’un dispositif scénographique évoquant un camp d’été. L’œuvre traite de la mémoire, de l’amitié et de la nostalgie à travers huit courts-métrages projetés dans des cabanes miniatures.
+*Camp Wakonda* est une installation immersive composée de maquettes miniatures en bois, de matériaux naturels, de vidéos projetées en stop-motion et d’un dispositif scénographique évoquant un camp d’été. L’œuvre traite  de l’amitié et de la nostalgie à travers huit courts-métrages projetés dans des cabanes miniatures.
 
 ![Vue générale de l'œuvre](photos_MBAM/oeuvre_ensemble.jpeg)  
 *Vue d'ensemble de l'installation Camp Wakonda — photo prise par moi*
