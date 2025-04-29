@@ -20,7 +20,7 @@
 Camp Wakonda est une installation composée de matériaux variés comme du bois torréfié, du balsa, des branches d’arbre, du polyester, de l’aluminium, des maquettes miniatures, de la peinture acrylique, et des vidéos d’animation en stop-motion. L’œuvre est une mise en scène touchante et nostalgique, explorant la perte et la résilience à travers la relation de deux amis animaux qui se déchirent après un accident. Elle est constituée de huit courts-métrages projetés sur des écrans ACL à l’aide de projecteurs numériques.
 
 **Photos de l'œuvre :**
-- ![Vue générale](../images/oeuvre_ensemble.jpeg)
+-![Vue générale](../photos_MBAM/oeuvre_ensemble.jpeg)
  
 _Photo prise par moi lors de la visite_
 -   
