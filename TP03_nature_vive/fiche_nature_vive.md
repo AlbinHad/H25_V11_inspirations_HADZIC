@@ -68,7 +68,7 @@ Immersive et contemplative
 
 ## Mise en espace
 
-La Galerie 3 est une grande salle rectangulaire où tout l’espace est utilisé pour les projections, autant sur les murs que sur le sol. Il y a des bancs ronds au centre pour que les visiteurs puissent s’asseoir et observer tranquillement. Au plafond, on remarque plusieurs équipements techniques comme des projecteurs et des haut-parleurs, bien intégrés dans la structure noire du plafond.
+La Galerie 3 est une grande salle rectangulaire où tout l’espace est utilisé pour les projections, autant sur les murs que sur le sol. Il y a des bancs ronds au centre pour que les visiteurs puissent s’asseoir et observer. Au plafond, on remarque plusieurs équipements techniques comme des projecteurs et des haut-parleurs, bien intégrés dans la structure noire du plafond.
 ![Vue d'ensemble – Galerie 3](photos_nature_vive/panorama_galerie_3.JPG)  
 *Photo prise par moi*
 
