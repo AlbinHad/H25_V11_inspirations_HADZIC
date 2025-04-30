@@ -12,6 +12,10 @@ OASIS immersion – Palais des congrès de Montréal
 ![Photo devant l’entrée de l’édifice](photos_nature_vive/plan_entrée.jpg)  
 *Photo prise par moi*
 
+**Plan de l’exposition**  
+![Plan des galeries – OASIS immersion](photos_nature_vive/carte_des_piece.jpeg)  
+*Photo prise par moi*
+
 ## Type d’exposition  
 Temporaire, immersive, intérieure
 
@@ -105,8 +109,7 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 
 ## Expérience vécue
 
-L’ambiance était calme et contemplative. En marchant ou en m’asseyant, je me sentais absorbé dans une nature numérique. Le public était respectueux, souvent silencieux, et participait à une forme de méditation collective. L’absence d’interactivité renforçait le sentiment de pause, de déconnexion.  
-[🎥 Voir une courte vidéo de l’œuvre](photos_nature_vive/oeuvre_video.MOV)
+L’ambiance était calme et contemplative. En marchant ou en m’asseyant, je me sentais absorbé dans une nature numérique. Le public était respectueux, souvent silencieux, et participait à une forme de méditation collective. L’absence d’interactivité renforçait le sentiment de pause, de déconnexion.
 
 ---
 
@@ -127,3 +130,4 @@ Le contenu projeté, bien que superbe, était cyclique. Je choisirais une struct
 - Site officiel : https://oasis.im  
 - Photos : prises par moi  
 - Textes de l’exposition : panneaux d’information sur place
+
