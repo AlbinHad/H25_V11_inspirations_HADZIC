@@ -100,7 +100,6 @@ L’ambiance de la salle était sombre et calme, ce qui mettait bien en valeur l
 
 ---
 
-## Appréciation personnelle
 
 ## Appréciation personnelle
 
