@@ -23,7 +23,7 @@ La Galerie 3 est à la fin du parcours. C’est une grande salle sombre avec des
 
 ### Mon expérience vécue
 
-Quand je suis entré, j’ai trouvé l’ambiance vraiment relax. Je me suis assis et je me suis juste laissé porter. Il n’y avait rien à toucher ou à activer, mais c’était pas grave. C’était un bon moment pour décrocher et juste observer.
+Quand je suis entré dans la salle, j’ai tout de suite ressenti une ambiance calme. Je me suis assis sur un banc et j’ai pris le temps de regarder les projections et d’écouter le son autour de moi. Même s’il n’y avait pas d’interaction, j’ai trouvé ça agréable. J’ai réussi à vraiment me plonger dans l’ambiance et à profiter du moment. C’était relaxant et immersif.
 
 ### Ce que j’ai aimé ou pas
 
@@ -36,8 +36,6 @@ Cette installation m’a aussi rappelé le projet *Internature* qu’on a vu pen
 ---
 
 ## Conclusion
-
-En résumé, j’ai présenté l’installation *Galerie 3* de l’expo *Nature Vive*. J’ai parlé de son emplacement, de ce que j’ai ressenti, de ce que j’ai aimé ou pas, et j’ai fait un lien avec une autre œuvre de la session.
 
 Ce que je retiens le plus, c’est comment une ambiance visuelle et sonore bien faite peut vraiment nous faire vivre une expérience forte. C’est quelque chose que je veux explorer dans mes futurs projets.
 
