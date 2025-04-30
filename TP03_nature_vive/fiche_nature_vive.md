@@ -109,8 +109,7 @@ La Galerie 3 est une grande salle rectangulaire où tout l’espace est utilisé
 
 ## Expérience vécue
 
-L’ambiance était vraiment apaisante. En marchant ou en m’asseyant sur les bancs, j’avais l’impression d’être plongé dans un autre monde, comme si la nature m’entourait complètement.Comme il n’y avait pas d’interaction directe avec l’œuvre, ça donnait une pause, un moment de déconnexion totale, juste pour observer et ressentir.
-
+Dès que je suis entré, j’ai trouvé l’ambiance super calme. Les images et les sons me mettaient dans une sorte de bulle, comme si j’étais ailleurs. Assis sur les bancs, je regardais autour de moi sans vraiment penser à autre chose. C’était relaxant.
 ---
 
 ## Ce qui m’a plu, ce qui m’a donné des idées
