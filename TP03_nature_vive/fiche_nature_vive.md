@@ -12,9 +12,6 @@ OASIS immersion – Palais des congrès de Montréal
 ![Photo devant l’entrée de l’édifice](photos_nature_vive/plan_entrée.jpg)  
 *Photo prise par moi*
 
-![Carte des galeries (plan de circulation)](photos_nature_vive/carte_des_piece.jpeg)  
-*Photo prise par moi*
-
 ## Type d’exposition  
 Temporaire, immersive, intérieure
 
@@ -23,7 +20,7 @@ Temporaire, immersive, intérieure
 
 ---
 
-## Oeuvre 
+## Oeuvre ou dispositif observé
 
 **Titre**  
 Galerie 3 – Panorama immersif  
@@ -35,9 +32,7 @@ OASIS immersion, en collaboration avec :
 - National Geographic
 - Fondation David Suzuki
 - Organisation des Nations Unies (ONU)
-- Age of Union  
-![Panneau de crédits](photos_nature_vive/detail_oeuvre.jpeg)  
-*Photo prise par moi*
+- Age of Union
 
 **Année de réalisation**  
 2023–2024
@@ -46,16 +41,12 @@ OASIS immersion, en collaboration avec :
 
 ## Description de l’œuvre ou du dispositif
 
-Installation immersive projetée à 360 degrés sur les murs et le sol. Les séquences visuelles représentent des thèmes comme la biodiversité, la faune marine, les particules microscopiques. Le son spatialisé enveloppe le visiteur dans une ambiance contemplative et poétique.  
-![Texte explicatif dans l’exposition](photos_nature_vive/nature_vive_detail.jpeg)  
-*Photo prise par moi*
+Installation immersive projetée à 360 degrés sur les murs et le sol. Les séquences visuelles représentent des thèmes comme la biodiversité, la faune marine, les particules microscopiques. Le son spatialisé enveloppe le visiteur dans une ambiance contemplative et poétique.
 
 ---
 
 ## Type d’installation  
-Immersive et contemplative  
-![Public dans la salle](photos_nature_vive/galerie_3.jpeg)  
-*Photo prise par moi*
+Immersive et contemplative
 
 ---
 
@@ -63,20 +54,13 @@ Immersive et contemplative
 
 - Mise en contexte environnementale  
 - Sensibilisation à la biodiversité  
-- Création d’un univers immersif sensoriel  
-![Scène projetée](photos_nature_vive/galerie_2.jpeg)  
-*Photo prise par moi*
+- Création d’un univers immersif sensoriel
 
 ---
 
 ## Mise en espace
 
-La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projections couvrent l’entièreté des murs et du sol. Des bancs circulaires sont disposés au centre pour permettre au public de s’asseoir. Le plafond contient des projecteurs et haut-parleurs dissimulés dans une structure technique noire.  
-![Vue d’ensemble du dispositif](photos_nature_vive/vue_ensemble_dispositif.jpg)  
-*Photo prise par moi*
-
-![Plan mural](photos_nature_vive/plan_mur.jpg)  
-*Photo prise par moi*
+La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projections couvrent l’entièreté des murs et du sol. Des bancs circulaires sont disposés au centre pour permettre au public de s’asseoir. Le plafond contient des projecteurs et haut-parleurs dissimulés dans une structure technique noire.
 
 ---
 
@@ -86,11 +70,7 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 - Haut-parleurs directionnels Genelec  
 - Système de contrôle audio/vidéo synchronisé  
 - Sol et murs comme surfaces de projection  
-- Éclairage dédié à l’ambiance immersive  
-![Haut-parleur suspendu](photos_nature_vive/plan_haut_parleur.jpeg)  
-*Photo prise par moi*  
-![Projecteurs au plafond](photos_nature_vive/plan_projecteur.jpeg)  
-*Photo prise par moi*
+- Éclairage dédié à l’ambiance immersive
 
 ---
 
@@ -99,9 +79,7 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 - Plafond technique avec grilles et rails  
 - Systèmes de suspension et cache-fils  
 - Bancs circulaires pour le public  
-- Signalisation de cheminement lumineux  
-![Plan de l’éclairage](photos_nature_vive/plan_eclairage (2).jpeg)  
-*Photo prise par moi*
+- Signalisation de cheminement lumineux
 
 ---
 
@@ -127,4 +105,4 @@ Le contenu projeté, bien que superbe, était cyclique. Je choisirais une struct
 
 - Site officiel : https://oasis.im  
 - Photos : prises par moi  
-- Textes de l’exposition : `nature_vive_detail.jpeg`, `detail_oeuvre.jpeg`
+- Textes de l’exposition : panneaux d’information sur place
