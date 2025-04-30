@@ -1,4 +1,4 @@
-# Fiche d’inspiration – Nature Vive / Galerie 3
+Nature Vive
 
 ## Informations générales
 
