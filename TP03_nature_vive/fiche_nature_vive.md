@@ -91,8 +91,6 @@ La Galerie 3 est une grande salle rectangulaire où tout l’espace est utilisé
 ![Système d’éclairage](photos_nature_vive/plan_eclairage_2.jpeg)  
 *Photo prise par moi*
 
-*Photo prise par moi*
-
 - Système de contrôle audio/vidéo synchronisé  
 - Sol et murs comme surfaces de projection
 
