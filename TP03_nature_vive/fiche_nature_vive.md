@@ -88,7 +88,9 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 *Photo prise par moi*
 
 - Éclairage d’ambiance au plafond  
-![Système d’éclairage](photos_nature_vive/plan_eclairage (2).jpeg)  
+![Système d’éclairage](photos_nature_vive/plan_eclairage_2.jpeg)  
+*Photo prise par moi*
+
 *Photo prise par moi*
 
 - Système de contrôle audio/vidéo synchronisé  
