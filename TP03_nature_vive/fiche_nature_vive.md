@@ -24,7 +24,7 @@ Temporaire, immersive, intérieure
 
 ---
 
-## Oeuvre ou dispositif observé
+## Oeuvre 
 
 **Titre**  
 Galerie 3 – Panorama immersif  
