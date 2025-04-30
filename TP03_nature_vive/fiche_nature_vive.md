@@ -1,4 +1,4 @@
-**# Fiche d’inspiration – Nature Vive / Galerie 3
+# Fiche d’inspiration – Nature Vive / Galerie 3
 
 ## Informations générales
 
@@ -72,6 +72,9 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 
 ## Composantes et techniques utilisées
 
+![Vue d’ensemble du dispositif au plafond](photos_nature_vive/vue_ensemble_dispositif.jpg)  
+*Photo prise par moi*
+
 - Projecteurs haute définition suspendus  
 ![Projecteurs au plafond](photos_nature_vive/plan_projecteur.jpeg)  
 *Photo prise par moi*
@@ -81,47 +84,4 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 *Photo prise par moi*
 
 - Éclairage d’ambiance au plafond  
-![Système d’éclairage](photos_nature_vive/plan_eclairage (2).jpeg)  
-*Photo prise par moi*
-
-- Système de contrôle audio/vidéo synchronisé  
-- Sol et murs comme surfaces de projection
-
----
-
-## Éléments de mise en exposition
-
-- Plafond technique avec grilles et rails  
-- Systèmes de suspension et cache-fils  
-- Bancs circulaires pour le public  
-- Signalisation de cheminement lumineux  
-![Structure du plafond – support technique](photos_nature_vive/plan_mur.jpg)  
-*Photo prise par moi*
-
----
-
-## Expérience vécue
-
-L’ambiance était calme et contemplative. En marchant ou en m’asseyant, je me sentais absorbé dans une nature numérique. Le public était respectueux, souvent silencieux, et participait à une forme de méditation collective. L’absence d’interactivité renforçait le sentiment de pause, de déconnexion.  
-[🎥 Voir une courte vidéo de l’œuvre](photos_nature_vive/oeuvre_video.MOV)
-
----
-
-## Ce qui m’a plu, ce qui m’a donné des idées
-
-La qualité visuelle et sonore m’a impressionné. Cela m’inspire à penser à un projet où la respiration ou les mouvements des visiteurs pourraient influer sur l’ambiance sonore et lumineuse, pour rendre l’expérience plus organique et réciproque.
-
----
-
-## Ce que je ne retiendrais pas ou que je ferais autrement
-
-Le contenu projeté, bien que superbe, était cyclique. Je choisirais une structure narrative avec une progression dramatique plus claire. Intégrer du rythme et des transitions fortes permettrait de maintenir l’attention et de renforcer l’impact émotionnel.
-
----
-
-## Références
-
-- Site officiel : https://oasis.im  
-- Photos : prises par moi  
-- Textes de l’exposition : panneaux d’information sur place
-**
+![Système d’éclairage](photos_nature_vive/plan_eclairage_)
