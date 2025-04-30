@@ -20,7 +20,7 @@ OASIS immersion – Palais des congrès de Montréal
 Temporaire, immersive, intérieure
 
 ## Date de la visite  
-30 avril 2025
+23 février
 
 ---
 
