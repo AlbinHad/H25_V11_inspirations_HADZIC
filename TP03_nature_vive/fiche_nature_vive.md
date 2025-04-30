@@ -45,7 +45,7 @@ OASIS immersion, en collaboration avec :
 
 ## Description de l’œuvre ou du dispositif
 
-Installation immersive projetée à 360 degrés sur les murs et le sol. Les séquences visuelles représentent des thèmes comme la biodiversité, la faune marine, les particules microscopiques. Le son spatialisé enveloppe le visiteur dans une ambiance contemplative et poétique.  
+Installation immersive projetée à 360 degrés sur les murs et le sol. Les séquences visuelles représentent des thèmes comme la biodiversité, la faune marine, les particules microscopiques. Le son spatialisé enveloppe le visiteur dans une ambiance imersive.  
 ![Galerie 1 – Installation immersive](photos_nature_vive/galerie_1.jpeg)  
 *Photo prise par moi*  
 ![Galerie 2 – Effets lumineux et sol interactif](photos_nature_vive/galerie_2.jpeg)  
