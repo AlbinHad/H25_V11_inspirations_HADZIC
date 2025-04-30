@@ -98,9 +98,9 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 
 ## Éléments de mise en exposition
 
-- Plafond technique avec grilles et rails  
+- Plafond avec grilles et rails  
 - Systèmes de suspension et cache-fils  
-- Bancs circulaires pour le public  
+- Bancs pour le public  
 - Signalisation de cheminement lumineux  
 ![Structure du plafond – support technique](photos_nature_vive/plan_mur.jpg)  
 *Photo prise par moi*
@@ -109,7 +109,7 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 
 ## Expérience vécue
 
-L’ambiance était vraiment apaisante. En marchant ou en m’asseyant sur les bancs, j’avais l’impression d’être plongé dans un autre monde, comme si la nature m’entourait complètement. C’était calme, presque méditatif. Les gens autour de moi parlaient très peu, ce qui renforçait ce sentiment d’immersion. Comme il n’y avait pas d’interaction directe avec l’œuvre, ça donnait une pause, un moment de déconnexion totale, juste pour observer et ressentir.
+L’ambiance était vraiment apaisante. En marchant ou en m’asseyant sur les bancs, j’avais l’impression d’être plongé dans un autre monde, comme si la nature m’entourait complètement.Comme il n’y avait pas d’interaction directe avec l’œuvre, ça donnait une pause, un moment de déconnexion totale, juste pour observer et ressentir.
 
 ---
 
@@ -121,7 +121,7 @@ Ce que j’ai le plus aimé, c’est à quel point les projections étaient bell
 
 ## Ce que je ne retiendrais pas ou que je ferais autrement
 
-Par contre, j’ai trouvé que certaines boucles visuelles étaient un peu longues. Au bout d’un moment, ça devenait un peu répétitif. Si je faisais un projet du genre, j’essaierais d’ajouter plus de changements, ou peut-être une forme de participation pour que le public reste curieux et engagé jusqu’à la fin.
+Par contre, j’ai trouvé que certaines boucles visuelles étaient un peu longues. Au bout d’un moment, ça devenait un peu répétitif. Si je faisais un projet du genre, j’essaierais d’ajouter plus de changements, ou peut-être une forme de participation ou le public reste engagé jusqu’à la fin.
 
 ---
 
