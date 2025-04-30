@@ -115,16 +115,13 @@ L’ambiance était calme et contemplative. En marchant ou en m’asseyant, je m
 
 ## Ce qui m’a plu, ce qui m’a donné des idées
 
-La qualité visuelle et sonore m’a impressionné. Cela m’inspire à penser à un projet où la respiration ou les mouvements des visiteurs pourraient influer sur l’ambiance sonore et lumineuse, pour rendre l’expérience plus organique et réciproque.
+La qualité visuelle et sonore m’a impressionné. Cela m’inspire à penser à un projet où la respiration ou les mouvements des visiteurs pourraient influer sur l’ambiance sonore et lumineuse, pour rendre l’expérience plus organique.
 
 ---
 
 ## Ce que je ne retiendrais pas ou que je ferais autrement
 
-Le contenu projeté, bien que superbe, était cyclique. Je choisirais une structure narrative avec une progression dramatique plus claire. Intégrer du rythme et des transitions fortes permettrait de maintenir l’attention et de renforcer l’impact émotionnel.
-
----
-
+La durée de certaines boucles visuelles semblait un peu longue, ce qui peut réduire l’attention du visiteur. Pour mes propres créations, je favoriserais quelque chose de plus dynamique ou participative.
 ## Références
 
 - Site officiel : https://oasis.im  
