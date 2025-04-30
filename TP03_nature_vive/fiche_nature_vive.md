@@ -1,4 +1,4 @@
-#Nature Vive
+# Fiche d’inspiration – Nature Vive / Galerie 3
 
 ## Informations générales
 
@@ -109,22 +109,24 @@ La Galerie 3 est une salle rectangulaire d’environ 10 m x 20 m. Les projection
 
 ## Expérience vécue
 
-L’ambiance était calme et contemplative. En marchant ou en m’asseyant, je me sentais absorbé dans une nature numérique. Le public était respectueux, souvent silencieux, et participait à une forme de méditation collective. L’absence d’interactivité renforçait le sentiment de pause, de déconnexion.
+L’ambiance était vraiment apaisante. En marchant ou en m’asseyant sur les bancs, j’avais l’impression d’être plongé dans un autre monde, comme si la nature m’entourait complètement. C’était calme, presque méditatif. Les gens autour de moi parlaient très peu, ce qui renforçait ce sentiment d’immersion. Comme il n’y avait pas d’interaction directe avec l’œuvre, ça donnait une pause, un moment de déconnexion totale, juste pour observer et ressentir.
 
 ---
 
 ## Ce qui m’a plu, ce qui m’a donné des idées
 
-La qualité visuelle et sonore m’a impressionné. Cela m’inspire à penser à un projet où la respiration ou les mouvements des visiteurs pourraient influer sur l’ambiance sonore et lumineuse, pour rendre l’expérience plus organique.
+Ce que j’ai le plus aimé, c’est à quel point les projections étaient belles et bien synchronisées avec le son. Ça m’a fait réfléchir à des projets où les visiteurs pourraient influencer ce qu’ils voient ou entendent, juste avec leurs mouvements ou leur respiration. Je trouve que ça rendrait l’expérience encore plus vivante.
 
 ---
 
 ## Ce que je ne retiendrais pas ou que je ferais autrement
 
-La durée de certaines boucles visuelles semblait un peu longue, ce qui peut réduire l’attention du visiteur. Pour mes propres créations, je favoriserais quelque chose de plus dynamique ou participative.
+Par contre, j’ai trouvé que certaines boucles visuelles étaient un peu longues. Au bout d’un moment, ça devenait un peu répétitif. Si je faisais un projet du genre, j’essaierais d’ajouter plus de changements, ou peut-être une forme de participation pour que le public reste curieux et engagé jusqu’à la fin.
+
+---
+
 ## Références
 
 - Site officiel : https://oasis.im  
 - Photos : prises par moi  
 - Textes de l’exposition : panneaux d’information sur place
-
