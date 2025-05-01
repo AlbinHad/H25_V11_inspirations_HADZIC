@@ -19,7 +19,7 @@ Dans ma présentation, je vais :
 
 ### Présentation de l’installation
 
-La Galerie 3 est à la fin du parcours. C’est une grande salle sombre avec des projections sur les murs et le sol. Il y a des bancs ronds au centre pour s’asseoir. Le plafond est rempli de projecteurs et de haut-parleurs, mais tout est bien intégré pour rester immersif. On y voit plein d’images liées à la nature : des paysages, des particules, des animaux, avec une ambiance sonore très douce.
+L’exposition est divisée en trois galeries, chacune avec sa propre ambiance et façon de représenter la nature. La Galerie 3 est une grande pièce sombre avec des projections sur les murs et le sol. Il y a des bancs ronds au centre pour s’asseoir et prendre le temps d’observer. Le plafond est rempli de projecteurs, de haut-parleurs et de lumières, mais tout est bien intégré pour ne pas briser l’ambiance. On y voit des paysages, des particules, des animaux et d’autres éléments liés à la nature, accompagnés d’une ambiance sonore douce et immersive.
 
 ### Mon expérience vécue
 
