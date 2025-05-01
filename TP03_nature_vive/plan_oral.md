@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Aujourd’hui, je vais vous parler d’une installation immersive que j’ai visitée à OASIS immersion, au Palais des congrès de Montréal. L’installation s’appelle *Galerie 3*, et elle fait partie de l’exposition *Nature Vive – Root for Nature*. C’est une œuvre multimédia qui cherche à sensibiliser les gens à la beauté de la nature.
+Aujourd’hui, je vais vous parler d’une expérience immersive que j’ai vécue à OASIS immersion, au Palais des congrès de Montréal. L’exposition s’appelle Nature Vive – Root for Nature et elle se déroule en trois galeries différentes. Chaque salle propose une ambiance unique autour du thème de la nature.
 
 Dans ma présentation, je vais :
 - décrire l’installation et où elle est située,
